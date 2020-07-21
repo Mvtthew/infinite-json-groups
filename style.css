@@ -1,0 +1,11 @@
+.group-child {
+	margin-left: 0.5rem;
+}
+
+.hidden {
+	display: none;
+}
+
+.has-children {
+	cursor: pointer;
+}
